@@ -32,10 +32,16 @@ I have nearly 5 years of experience in cloud infrastructure, CI/CD automation, c
 | Databases | 40% faster query response across 10+ MySQL, MSSQL and MongoDB systems |
 | Security | Backend Lambda functions deployed in private subnets with no public exposure |
 
-## :rocket: Featured project
+## :rocket: Featured projects
 
-**[secure-k8s-delivery](https://github.com/jvinayk5/secure-k8s-delivery)** is a DevSecOps delivery reference: Jenkins CI with SonarQube, OWASP Dependency-Check and Trivy gates, Helm, ArgoCD GitOps and blue-green rollouts on Kubernetes, with a green CI pipeline.
-`Jenkins` `Docker` `Trivy` `SonarQube` `Helm` `ArgoCD` `Argo Rollouts` `Prometheus`
+| Project | What it shows |
+|---|---|
+| [secure-k8s-delivery](https://github.com/jvinayk5/secure-k8s-delivery) | DevSecOps delivery: Jenkins CI with SonarQube, Dependency-Check and Trivy gates, Helm, ArgoCD GitOps and blue-green rollouts on Kubernetes |
+| [aws-terraform-modules](https://github.com/jvinayk5/aws-terraform-modules) | Reusable, secure-by-default Terraform modules for VPC, S3, ECR, ALB and RDS, with a working example and CI |
+| [aws-event-driven-observability](https://github.com/jvinayk5/aws-event-driven-observability) | SQS, dead-letter queue and Lambda in Terraform, with CloudWatch alarms, a dashboard and encrypted SNS alerts |
+| [simple-node-app](https://github.com/jvinayk5/simple-node-app) | Declarative Jenkins pipeline: test, archive and SSH deploy with PM2 |
+
+`Terraform` `Jenkins` `Kubernetes` `ArgoCD` `Helm` `Trivy` `SQS` `Lambda` `CloudWatch`
 
 ## :books: Learning
 
