@@ -49,4 +49,5 @@ Working through Terraform, Docker, Kubernetes and Linux hands-on. My practice re
 ## :mailbox: Get in touch
 
 Open to DevOps and Cloud Engineer roles in Bengaluru and remote.
-Email: [jvinayk5@gmail.com](mailto:jvinayk5@gmail.com)
+- Email: [jvinayk5@gmail.com](mailto:jvinayk5@gmail.com)
+- LinkedIn: [linkedin.com/in/vinay-kumar-devops](https://www.linkedin.com/in/vinay-kumar-devops)
